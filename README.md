@@ -17,9 +17,9 @@
 </p>
 
 
-<p align="center">
+<!--<p align="center">
     <img src="./.github/login.png" alt="Image Example" width="400px">
-</p>
+</p>-->
 
 <h2 id="started">📌 About</h2>
 
